@@ -1,0 +1,1 @@
+In this project, I learned how to import and use functions, as well as how to create modules in Python. I also practiced using the built-in dir() function and learned how to use command line arguments within Python programs.
